@@ -1,1 +1,1 @@
-# starpark
+Starpark is a theme park ticketing system implemented using an object-oriented structure. It allows users to become members and redeem vouchers or rewards based on their accumulated points. Internally, there are different account type that suits different purpose of management level, namely the top management, staff, and customer account type.
