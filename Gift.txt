@@ -1,0 +1,8 @@
+(G001, Get a free MILO, 3, Bronze, Available, 119)
+(G002, Get a free popcorn, 50, Golden, Available, 2)
+(G003, Get a free towel, 5, Golden, Available, 100)
+(G004, Get a free mug, 25, Silver, Available, 100)
+(G005, Get a free swimming tube, 200, Golden, Available, 100)
+(G006, Get a free swimming suite, 500, Silver, Available, 200)
+(G007, Get a free lemonade, 5, Bronze, Available, 10000)
+(G008, Get a free t shirt, 20, Silver, Available, 100)

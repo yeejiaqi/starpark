@@ -1,0 +1,4 @@
+(M748245,Pei Lin,111112,01126102153,heng@gmail.com,10/02/2024,Bronze,190,15/05/2025,0.00,Active)
+(M742684,clarist,123456,0175629734,cla@gmail.com,15/05/2024,Bronze,100,15/05/2025,0.00,Active)
+(M720575,jia qi,555888,0123456789,jiaqi@gmail.com,15/05/2024,Bronze,100,15/05/2025,0.00,Active)
+(M518240,Tan Hoong Win,081100,0174018994,win@gmail.com,15/05/2024,Bronze,0,15/05/2025,0.00,Active)

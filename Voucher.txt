@@ -1,0 +1,8 @@
+(V001, Get 2nd 50% offer, 20, Bronze, Unavailable, 29/09/2024)
+(V002, Purchase any food with 20% offer, 5, Bronze, Available, 09/11/2024)
+(V003, Purchase up to RM50 to get RM5 rebate, 5, Silver, Available, 24/08/2024)
+(V004, Purchase any beverage with 90% discount, 25, Golden, Available, 25/05/2024)
+(V005, Get 2nd snacks 50% offer, 5, Bronze, Available, 09/06/2024)
+(V006, Get 2nd Milo 70% discount, 5, Bronze, Available, 25/06/2024)
+(V007, Get a set lunch with 30% offer, 10, Bronze, Available, 12/12/2024)
+(V008, Purchase souvenir with 30% offer, 20, Silver, Available, 29/09/2024)

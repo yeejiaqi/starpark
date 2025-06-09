@@ -1,0 +1,17 @@
+All new members will be assigned the Bronze membership tier by default.
+Members may upgrade to a higher tier based on accumulated points. 
+Each tier offers benefits tailored to member preferences and needs.
+Members will earn one point for every RM 10 spent at Starpark Lagoon.
+A renewal fee applies annually for all membership tiers except for Bronze.
+All membership tiers, including the Bronze membership, are subject to an annual renewal requirement.
+Renewal of the Bronze membership tier is free of charge but must be activated each year to maintain membership status.
+Members can renew their membership 30 days prior to or on the exact date of expiry.
+Silver membership requires more than 300 points and an upgrade price of RM 50.
+Golden membership needs customers to have more than 1000 points and pay RM100 to upgrade their membership.
+Eligibility for upgrades is based on total points accumulated, irrespective of points redemption.
+Members wishing to downgrade their membership may do so to the next lower tier upon renewal.
+Our customer support team will contact members one week prior to membership expiration to remind them of the impending renewal.
+If a membership expires, all accrued points will reset to zero, and Silver or Golden members will be downgraded to Bronze membership.
+Members who wish to resubscribe to the previous membership tier are required to recollect the point and reach the point required to subscribe it.
+Members may redeem rewards based on the points they have collected.
+Rewards redeemed must be used immediately.

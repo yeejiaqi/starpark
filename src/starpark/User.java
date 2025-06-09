@@ -1,0 +1,42 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package starpark;
+
+public class User {
+    private String name;
+    private String password;
+
+    
+    public User(){
+        this("","");
+    }
+    
+    public User(String name, String password){
+        this.name = name;
+        this.password = password;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+        
+    //print out first, nanti baru see whether is it necessary to print bo
+    @Override
+    public String toString(){
+        return "Name: " + name + "\n" + "Password: " + password + "\n";
+    }
+}
